@@ -1,0 +1,7 @@
+nombreCliente;dniCliente;ciudadDestino;tipoServicio;peso
+Juan Perez;30255874;Rosario;URGENTE;12.5
+Gabriel;55874;Rosario;COMUN;12.5
+Angel;30254;Rosario;COMUN;12.5
+perez;5874;Rosario;URGENTE;155.5
+Nico;1234;Peru;URGENTE;1
+Nico;1234;Peru;Comun;1
