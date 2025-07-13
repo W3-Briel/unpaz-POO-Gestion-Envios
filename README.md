@@ -4,7 +4,7 @@ Una empresa de logística necesita desarrollar un sistema que gestione envíos d
 
 ### Requisitos
 1- **Lectura desde archivo**:
-Cargar desde un archivo ```envios.csv``` la lista de envíos. Cada línea del archivo contiene:
+Cargar desde un archivo ```envios.txt``` la lista de envíos. Cada línea del archivo contiene:
 
 ```
 nombreCliente;dniCliente;ciudadDestino;tipoServicio;peso
