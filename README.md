@@ -25,9 +25,9 @@ Juan Perez;30255874;Rosario;URGENTE;12.5
   ```
 4- **Interfaces**:
   * _Facturable_ : con método
-  ```java
-  double getMonto()
-  ```
+    ```java
+    double getMonto()
+    ```
   * _Identificable_ : con método
     ```java
     String getIdentificador() /*puede devolver el nombre del cliente o DNI*/
