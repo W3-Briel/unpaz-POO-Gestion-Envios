@@ -39,11 +39,11 @@ Juan Perez;30255874;Rosario;URGENTE;12.5
   * Envío más caro y su resumen.
   * Filtrar y mostrar todos los envíos a una ciudad dada.
 
-  Agregar nuevos envíos por consola y guardarlos en el archivo.
 
 ---
 
-> Utilizar:
+> extra:
 > * Manejo de excepciones personalizadas.
 > * Una clase Cliente separada con métodos para validación.
 > * Uso de Map<String, List<Envio>> para agrupar envíos por ciudad.
+> * Agregar nuevos envíos por consola y guardarlos en el archivo.
